@@ -78,7 +78,12 @@ margin-top: 30px;
 }
 
 .footer {
-    display: inline;
+     display: flex;
+     align-items: center;
+     gap:16px;
      
 }
 
+.text {
+    margin-top:20px;
+}
